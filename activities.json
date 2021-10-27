@@ -1,0 +1,111 @@
+[
+	{
+		"activity": "Monitorias",
+		"time_value": 10.0,
+		"time_value_constraint": "por semestre",
+		"max_time": 40.0,
+	},
+	{
+		"activity": "Projetos de Iniciação Científica",
+		"time_value": 2.5,
+		"time_value_constraint": "por mês em projeto",
+		"max_time": 40.0,
+	},
+	{
+		"activity": "Projetos de Extensão",
+		"time_value": 2.5,
+		"time_value_constraint": "por mês em projeto",
+		"max_time": 40.0,
+	},
+	{
+		"activity": "Instrutor em Cursos de atualização promovidos e organizados no curso de ADS e nas áreas específicas do mesmo",
+		"time_value": 1.0,
+		"time_value_constraint": "por hora do curso",
+		"max_time": 30.0,
+	},
+	{
+		"activity": "Participação em Curso Online nas áreas estratégicas do curso",
+		"time_value": 0.1,
+		"time_value_constraint": "por hora do curso",
+		"max_time": 25.0,
+	},
+	{
+		"activity": "Participação em Cursos Presenciais nas áreas estratégicas do Curso",
+		"time_value": 0.25,
+		"time_value_constraint": "por hora do curso",
+		"max_time": 25.0,
+	},
+	{
+		"activity": "Participação e aprovação em Disciplinas Optativas oferecidas pelo curso",
+		"time_value": 0.5,
+		"time_value_constraint": "por hora da disciplina",
+		"max_time": 40.0,
+	},
+	{
+		"activity": "Visita Técnica",
+		"time_value": 1.0,
+		"time_value_constraint": "por viagem",
+		"max_time": 15.0,
+	},
+	{
+		"activity": "Participação em Jornadas, Simpósios, Congressos, Seminários, Palestras ou equivalentes nas áreas estratégicas do Curso",
+		"time_value": 2.0,
+		"time_value_constraint": "por evento",
+		"max_time": 20.0,
+	},
+	{
+		"activity": "Apresentação de trabalhos em Congressos, Seminários, Palestras ou equivalentes nas áreas estratégicas do Curso",
+		"time_value": 4.0,
+		"time_value_constraint": "por trabalho",
+		"max_time": 20.0,
+	},
+	{
+		"activity": "Participação em empresas juniores, empresas incubadas que tenham vínculo com o IFPB, empresas privadas comprovadas com carteira de trabalho ou empresas públicas comprovadas por declaração fornecida pela mesma",
+		"time_value": 3.0,
+		"time_value_constraint": "por 1 mês de participação.",
+		"max_time": 40.0,
+	},
+	{
+		"activity": "Participação em núcleos de estudos e de pesquisas vinculadas às áreas estratégicas do Curso",
+		"time_value": 10.0,
+		"time_value_constraint": "por 6 meses de participação",
+		"max_time": 40.0,
+	},
+	{
+		"activity": "Publicação de artigos completos nas áreas estratégicas do Curso",
+		"time_value": 10.0,
+		"time_value_constraint": "por artigo.",
+		"max_time": 40.0,
+	},
+	{
+		"activity": "Publicação de artigos curtos nas áreas estratégicas do Curso",
+		"time_value": 5.0,
+		"time_value_constraint": "por artigo.",
+		"max_time": 20.0,
+	},
+	{
+		"activity": "Publicação de resumos nas áreas estratégicas do Curso",
+		"time_value": 2.5,
+		"time_value_constraint": "por resumo.",
+		"max_time": 10.0,
+	},
+	{
+		"activity": "Participação em Representação e Administração em Entidades Estudantis, Atividade Esportiva Ofertada pelo IFPB, Atividade Artística e Cultural",
+		"time_value": 1.0,
+		"time_value_constraint": "por atividade.",
+		"max_time": 5.0,
+	},
+	{
+		"activity": "Participação na Organização de Eventos promovidos pelo Curso",
+		"time_value": 1.0,
+		"time_value_constraint": "por dia do evento",
+		"max_time": 10.0,
+	},
+	{
+		"activity": "Cursos de Língua Estrangeira Moderna",
+		"time_value": 1.0,
+		"time_value_constraint": "por semestre",
+		"max_time": 7.0,
+	}
+
+]
